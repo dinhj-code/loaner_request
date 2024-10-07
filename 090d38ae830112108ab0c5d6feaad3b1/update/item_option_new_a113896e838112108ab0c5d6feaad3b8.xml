@@ -42,7 +42,7 @@
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
         <name>formatter</name>
-        <order>400</order>
+        <order>500</order>
         <post_insert_script/>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
@@ -77,14 +77,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-10-07 16:59:32</sys_created_on>
         <sys_id>a113896e838112108ab0c5d6feaad3b8</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>formatter</sys_name>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Loaner Request">090d38ae830112108ab0c5d6feaad3b1</sys_scope>
         <sys_update_name>item_option_new_a113896e838112108ab0c5d6feaad3b8</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-10-07 17:03:40</sys_updated_on>
+        <sys_updated_on>2024-10-07 19:38:49</sys_updated_on>
         <table/>
         <tooltip/>
         <type>24</type>

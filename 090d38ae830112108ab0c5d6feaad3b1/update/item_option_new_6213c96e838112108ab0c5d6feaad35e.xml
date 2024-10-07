@@ -5,8 +5,8 @@
         <cat_item display_value="Create Loaner Request">c4c085aa838112108ab0c5d6feaad3eb</cat_item>
         <category/>
         <choice_direction>down</choice_direction>
-        <choice_field/>
-        <choice_table/>
+        <choice_field>item_type</choice_field>
+        <choice_table>x_894629_loan_req_loaner_requests</choice_table>
         <create_roles/>
         <default_html_value/>
         <default_value/>
@@ -42,7 +42,7 @@
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
         <name>item_type</name>
-        <order>200</order>
+        <order>300</order>
         <post_insert_script/>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
@@ -56,8 +56,8 @@
         <record/>
         <record_producer_table>x_894629_loan_req_loaner_requests</record_producer_table>
         <reference/>
-        <reference_qual>undefined</reference_qual>
-        <reference_qual_condition>undefined</reference_qual_condition>
+        <reference_qual/>
+        <reference_qual_condition/>
         <rich_text/>
         <roles_to_use_also_request_for/>
         <save_script><![CDATA[/** This script is executed before the Record is generated
@@ -77,14 +77,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-10-07 17:00:10</sys_created_on>
         <sys_id>6213c96e838112108ab0c5d6feaad35e</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_name>Item Type</sys_name>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Loaner Request">090d38ae830112108ab0c5d6feaad3b1</sys_scope>
         <sys_update_name>item_option_new_6213c96e838112108ab0c5d6feaad35e</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-10-07 17:03:40</sys_updated_on>
+        <sys_updated_on>2024-10-07 19:38:49</sys_updated_on>
         <table/>
         <tooltip/>
         <type>5</type>
