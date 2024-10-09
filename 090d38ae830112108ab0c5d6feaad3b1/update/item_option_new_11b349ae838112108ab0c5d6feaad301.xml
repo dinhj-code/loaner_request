@@ -47,7 +47,7 @@
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
         <published_ref/>
-        <question_text>Depot</question_text>
+        <question_text>Where would you like to pick up this item?</question_text>
         <read_only>false</read_only>
         <read_roles/>
         <read_script/>
@@ -77,14 +77,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-10-07 17:02:42</sys_created_on>
         <sys_id>11b349ae838112108ab0c5d6feaad301</sys_id>
-        <sys_mod_count>5</sys_mod_count>
-        <sys_name>Depot</sys_name>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>Where would you like to pick up this item?</sys_name>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Loaner Request">090d38ae830112108ab0c5d6feaad3b1</sys_scope>
         <sys_update_name>item_option_new_11b349ae838112108ab0c5d6feaad301</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-10-07 19:38:49</sys_updated_on>
+        <sys_updated_on>2024-10-07 19:43:59</sys_updated_on>
         <table/>
         <tooltip/>
         <type>5</type>

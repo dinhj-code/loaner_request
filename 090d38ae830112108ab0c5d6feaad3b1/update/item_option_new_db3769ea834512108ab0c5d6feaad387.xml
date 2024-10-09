@@ -47,7 +47,7 @@
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
         <published_ref/>
-        <question_text>End Date</question_text>
+        <question_text>When will you return the equipment?</question_text>
         <read_only>false</read_only>
         <read_roles/>
         <read_script/>
@@ -77,14 +77,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-10-07 19:37:47</sys_created_on>
         <sys_id>db3769ea834512108ab0c5d6feaad387</sys_id>
-        <sys_mod_count>3</sys_mod_count>
-        <sys_name>End Date</sys_name>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>When will you return the equipment?</sys_name>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Loaner Request">090d38ae830112108ab0c5d6feaad3b1</sys_scope>
         <sys_update_name>item_option_new_db3769ea834512108ab0c5d6feaad387</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-10-07 19:38:51</sys_updated_on>
+        <sys_updated_on>2024-10-07 19:43:37</sys_updated_on>
         <table/>
         <tooltip/>
         <type>10</type>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_filter">
+    <sys_search_filter action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <ais_search_source display_value="Loaner Tasks">25bd567e834d52108ab0c5d6feaad349</ais_search_source>
+        <label>Loaner Tasks</label>
+        <name>Loaner Tasks</name>
+        <order>200</order>
+        <search_context_config display_value="Loaner Request AI Search Configuration">52ad127e534d521076c42e130f0843db</search_context_config>
+        <sys_class_name>sys_search_filter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-08 18:13:58</sys_created_on>
+        <sys_id>a9bd567e834d52108ab0c5d6feaad350</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Loaner Tasks</sys_name>
+        <sys_package display_value="Loaner Request" source="x_894629_loan_req">090d38ae830112108ab0c5d6feaad3b1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">090d38ae830112108ab0c5d6feaad3b1</sys_scope>
+        <sys_update_name>sys_search_filter_a9bd567e834d52108ab0c5d6feaad350</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-08 18:13:58</sys_updated_on>
+    </sys_search_filter>
+</record_update>

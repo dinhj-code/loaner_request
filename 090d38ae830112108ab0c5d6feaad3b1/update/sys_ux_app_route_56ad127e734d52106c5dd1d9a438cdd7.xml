@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Loaner Request App Config">1aad127e7f4d52100f2d82b0cc151fe3</app_config>
+        <description/>
+        <extension_point/>
+        <fields/>
+        <icon/>
+        <name>Dashboards</name>
+        <optional_parameters>sysId,edit,tabSysId,filter,element</optional_parameters>
+        <order>0</order>
+        <parent_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>dashboards</route_type>
+        <screen_type display_value="Dashboards">dead127eaa4d5210cfb6df52ef8098d6</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-08 18:13:47</sys_created_on>
+        <sys_id>56ad127e734d52106c5dd1d9a438cdd7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Dashboards</sys_name>
+        <sys_package display_value="Loaner Request" source="x_894629_loan_req">090d38ae830112108ab0c5d6feaad3b1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">090d38ae830112108ab0c5d6feaad3b1</sys_scope>
+        <sys_update_name>sys_ux_app_route_56ad127e734d52106c5dd1d9a438cdd7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-08 18:13:47</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=56ad127e734d52106c5dd1d9a438cdd7"/>
+</record_update>

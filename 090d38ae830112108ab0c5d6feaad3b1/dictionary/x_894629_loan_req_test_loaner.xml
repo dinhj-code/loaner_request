@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="432abacf830112108ab0c5d6feaad3c4" extends="sys_import_set_row" label="Test Loaner" max_length="40" name="x_894629_loan_req_test_loaner" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=u_description" label="Description" max_length="40" name="u_description" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_search_source_m2m">
+    <ais_search_profile_ais_search_source_m2m action="INSERT_OR_UPDATE">
+        <profile display_value="loaner-request-test Search Profile">92ad127e6a4d5210d0626c8b0992aee4</profile>
+        <search_source display_value="Loaner Requests">a9bd167e834d52108ab0c5d6feaad3db</search_source>
+        <sys_class_name>ais_search_profile_ais_search_source_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-08 18:13:57</sys_created_on>
+        <sys_id>e9bd167e834d52108ab0c5d6feaad3eb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>loaner-request-test Search Profile.Loaner Requests</sys_name>
+        <sys_package display_value="Loaner Request" source="x_894629_loan_req">090d38ae830112108ab0c5d6feaad3b1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">090d38ae830112108ab0c5d6feaad3b1</sys_scope>
+        <sys_update_name>ais_search_profile_ais_search_source_m2m_e9bd167e834d52108ab0c5d6feaad3eb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-08 18:13:57</sys_updated_on>
+    </ais_search_profile_ais_search_source_m2m>
+</record_update>

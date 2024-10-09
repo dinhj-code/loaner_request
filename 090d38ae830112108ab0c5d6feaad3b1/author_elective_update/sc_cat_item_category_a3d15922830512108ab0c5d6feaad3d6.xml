@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Create Loaner Request">c4c085aa838112108ab0c5d6feaad3eb</sc_cat_item>
+        <sc_category display_value="Loaner Request">34d11922830512108ab0c5d6feaad348</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-07 18:04:07</sys_created_on>
+        <sys_id>a3d15922830512108ab0c5d6feaad3d6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Loaner Request.Create Loaner Request</sys_name>
+        <sys_package display_value="Loaner Request" source="x_894629_loan_req">090d38ae830112108ab0c5d6feaad3b1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">090d38ae830112108ab0c5d6feaad3b1</sys_scope>
+        <sys_update_name>sc_cat_item_category_a3d15922830512108ab0c5d6feaad3d6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-07 18:04:07</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Request">090d38ae830112108ab0c5d6feaad3b1</application>
+        <file_path/>
+        <instance_id>3789d94c1b250a9878c7cb7b234bcbb3</instance_id>
+        <instance_name>dev258917</instance_name>
+        <name>sc_cat_item_category_a3d15922830512108ab0c5d6feaad3d6</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Create Loaner Request">c4c085aa838112108ab0c5d6feaad3eb</sc_cat_item><sc_category display_value="Loaner Request">34d11922830512108ab0c5d6feaad348</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-10-07 18:04:07</sys_created_on><sys_id>a3d15922830512108ab0c5d6feaad3d6</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Loaner Request.Create Loaner Request</sys_name><sys_package display_value="Loaner Request" source="x_894629_loan_req">090d38ae830112108ab0c5d6feaad3b1</sys_package><sys_policy/><sys_scope display_value="Loaner Request">090d38ae830112108ab0c5d6feaad3b1</sys_scope><sys_update_name>sc_cat_item_category_a3d15922830512108ab0c5d6feaad3d6</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-10-07 18:04:07</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-693065851</payload_hash>
+        <record_name>Loaner Request.Create Loaner Request</record_name>
+        <reverted_from/>
+        <source>410d38ae830112108ab0c5d6feaad3b3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-07 18:04:07</sys_created_on>
+        <sys_id>efd15922830512108ab0c5d6feaad3d9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19268271f230000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-07 18:04:07</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>e3d15922ee051210abdb080eb3dbcfd9</update_guid>
+        <update_guid_history>e3d15922ee051210abdb080eb3dbcfd9:-693065851</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Loaner Request.Create Loaner Request">74025d22830512108ab0c5d6feaad32f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-07 18:04:45</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>0102ef5862b24b449886f2aeb7064710</sys_id>
+        <sys_metadata>a3d15922830512108ab0c5d6feaad3d6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Loaner Request.Create Loaner Request</sys_name>
+        <sys_package display_value="Loaner Request" source="x_894629_loan_req">090d38ae830112108ab0c5d6feaad3b1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">090d38ae830112108ab0c5d6feaad3b1</sys_scope>
+        <sys_scope_delete display_value="">1b9a3b5b7b4540bc86774a0cfdb83690</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_a3d15922830512108ab0c5d6feaad3d6</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_a3d15922830512108ab0c5d6feaad3d6">efd15922830512108ab0c5d6feaad3d9</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-07 18:04:45</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

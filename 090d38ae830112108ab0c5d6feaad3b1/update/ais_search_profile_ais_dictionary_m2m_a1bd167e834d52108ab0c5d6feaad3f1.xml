@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_dictionary_m2m">
+    <ais_search_profile_ais_dictionary_m2m action="INSERT_OR_UPDATE">
+        <dictionary display_value="x_894629_loan_req_loaner_request_test_search_profile_default_spell_check_dictionary">e9bd167e834d52108ab0c5d6feaad3ed</dictionary>
+        <dictionary_reference_qualifier/>
+        <marked_for_deletion>false</marked_for_deletion>
+        <profile display_value="loaner-request-test Search Profile">92ad127e6a4d5210d0626c8b0992aee4</profile>
+        <sys_class_name>ais_search_profile_ais_dictionary_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-08 18:13:57</sys_created_on>
+        <sys_id>a1bd167e834d52108ab0c5d6feaad3f1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_894629_loan_req_loaner_request_test_search_profile_default_spell_check_dictionary.loaner-request-test Search Profile</sys_name>
+        <sys_package display_value="Loaner Request" source="x_894629_loan_req">090d38ae830112108ab0c5d6feaad3b1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">090d38ae830112108ab0c5d6feaad3b1</sys_scope>
+        <sys_update_name>ais_search_profile_ais_dictionary_m2m_a1bd167e834d52108ab0c5d6feaad3f1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-08 18:13:57</sys_updated_on>
+    </ais_search_profile_ais_dictionary_m2m>
+</record_update>

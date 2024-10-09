@@ -23,8 +23,8 @@
         <example_text/>
         <field>start_date</field>
         <global>false</global>
-        <help_tag>More information</help_tag>
-        <help_text/>
+        <help_tag>Start Date Guideline</help_tag>
+        <help_text>The start date for the request must be after today.</help_text>
         <hidden>false</hidden>
         <include_none>false</include_none>
         <instructions/>
@@ -47,7 +47,7 @@
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
         <published_ref/>
-        <question_text>Start Date</question_text>
+        <question_text>When will you start using the equipment?</question_text>
         <read_only>false</read_only>
         <read_roles/>
         <read_script/>
@@ -56,8 +56,8 @@
         <record/>
         <record_producer_table>x_894629_loan_req_loaner_requests</record_producer_table>
         <reference/>
-        <reference_qual>undefined</reference_qual>
-        <reference_qual_condition>undefined</reference_qual_condition>
+        <reference_qual/>
+        <reference_qual_condition/>
         <rich_text/>
         <roles_to_use_also_request_for/>
         <save_script><![CDATA[/** This script is executed before the Record is generated
@@ -69,22 +69,22 @@
 */]]></save_script>
         <scale_max>5</scale_max>
         <scale_min>0</scale_min>
-        <show_help>false</show_help>
-        <show_help_on_load>false</show_help_on_load>
+        <show_help>true</show_help>
+        <show_help_on_load>true</show_help_on_load>
         <sp_widget/>
         <summary_macro/>
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-10-07 19:37:25</sys_created_on>
         <sys_id>2617a5ea834512108ab0c5d6feaad305</sys_id>
-        <sys_mod_count>3</sys_mod_count>
-        <sys_name>Start Date</sys_name>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>When will you start using the equipment?</sys_name>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Loaner Request">090d38ae830112108ab0c5d6feaad3b1</sys_scope>
         <sys_update_name>item_option_new_2617a5ea834512108ab0c5d6feaad305</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-10-07 19:38:51</sys_updated_on>
+        <sys_updated_on>2024-10-07 19:47:17</sys_updated_on>
         <table/>
         <tooltip/>
         <type>10</type>
